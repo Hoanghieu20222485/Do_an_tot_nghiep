@@ -1,0 +1,49 @@
+﻿LopKey,MaLop,TenLop,KhoaHoc,NamSinhVien,CoVanHocTap,NganhKey,KhoaKey,MucLop
+1,CNTT13A1,Công nghệ thông tin 13A1,Khóa 13,4,Hà Hữu Vũ,1,1,Tốt
+2,CNTT14A1,Công nghệ thông tin 14A1,Khóa 14,3,Bà Bảo Vũ,1,1,Trung bình
+3,CNTT15A1,Công nghệ thông tin 15A1,Khóa 15,2,Quý ông Huy Vũ,1,1,Yếu
+4,CNTT16A1,Công nghệ thông tin 16A1,Khóa 16,1,Anh Dũng Mai,1,1,Trung bình
+5,TKDH13A1,Thiết kế đồ họa 13A1,Khóa 13,4,Quý ông Tú Mai,2,1,Tốt
+6,TKDH14A1,Thiết kế đồ họa 14A1,Khóa 14,3,Tú Phạm,2,1,Trung bình
+7,TKDH15A1,Thiết kế đồ họa 15A1,Khóa 15,2,Cô Hương Dương,2,1,Yếu
+8,TKDH15A2,Thiết kế đồ họa 15A2,Khóa 15,2,Huy Xuân Nguyễn,2,1,Trung bình
+9,TKDH16A1,Thiết kế đồ họa 16A1,Khóa 16,1,Phúc Phú Mai,2,1,Tốt
+10,AIUD13A1,Trí tuệ nhân tạo ứng dụng 13A1,Khóa 13,4,Cô Duyên Vũ,3,1,Tốt
+11,AIUD14A1,Trí tuệ nhân tạo ứng dụng 14A1,Khóa 14,3,Bà Duyên Vũ,3,1,Trung bình
+12,AIUD15A1,Trí tuệ nhân tạo ứng dụng 15A1,Khóa 15,2,Cô Hạnh Trần,3,1,Yếu
+13,AIUD16A1,Trí tuệ nhân tạo ứng dụng 16A1,Khóa 16,1,Bảo Đức Nguyễn,3,1,Trung bình
+14,AIUD16A2,Trí tuệ nhân tạo ứng dụng 16A2,Khóa 16,1,Phúc Đức Mai,3,1,Tốt
+15,KT13A1,Kiến trúc 13A1,Khóa 13,4,Anh Quang Vũ,4,2,Tốt
+16,KT14A1,Kiến trúc 14A1,Khóa 14,3,Phúc Đức Vũ,4,2,Trung bình
+17,KT15A1,Kiến trúc 15A1,Khóa 15,2,An Bùi,4,2,Yếu
+18,KT16A1,Kiến trúc 16A1,Khóa 16,1,Huy Nguyễn,4,2,Trung bình
+19,KT16A2,Kiến trúc 16A2,Khóa 16,1,Hương Phạm,4,2,Tốt
+20,KTNT13A1,Kiến trúc nội thất 13A1,Khóa 13,4,Thảo Trần,5,2,Tốt
+21,KTNT14A1,Kiến trúc nội thất 14A1,Khóa 14,3,Hải Mai,5,2,Trung bình
+22,KTNT15A1,Kiến trúc nội thất 15A1,Khóa 15,2,Dũng Mai Hoàng,5,2,Yếu
+23,KTNT15A2,Kiến trúc nội thất 15A2,Khóa 15,2,Xuân Bùi,5,2,Trung bình
+24,KTNT16A1,Kiến trúc nội thất 16A1,Khóa 16,1,Trọng Hoàng Hoàng,5,2,Tốt
+25,KTXD13A1,Kỹ thuật xây dựng 13A1,Khóa 13,4,Quý ông Tú Đặng,6,2,Tốt
+26,KTXD14A1,Kỹ thuật xây dựng 14A1,Khóa 14,3,Thành Vũ,6,2,Trung bình
+27,KTXD15A1,Kỹ thuật xây dựng 15A1,Khóa 15,2,Hưng Bảo Nguyễn,6,2,Yếu
+28,KTXD16A1,Kỹ thuật xây dựng 16A1,Khóa 16,1,Dũng Vũ,6,2,Trung bình
+29,QTKS13A1,Quản trị khách sạn 13A1,Khóa 13,4,Hạnh Bùi,7,3,Tốt
+30,QTKS14A1,Quản trị khách sạn 14A1,Khóa 14,3,Nhiên Văn Mai,7,3,Trung bình
+31,QTKS15A1,Quản trị khách sạn 15A1,Khóa 15,2,Trung Thị Trần,7,3,Yếu
+32,QTKS15A2,Quản trị khách sạn 15A2,Khóa 15,2,Cô Hà Nguyễn,7,3,Trung bình
+33,QTKS16A1,Quản trị khách sạn 16A1,Khóa 16,1,Bà Khoa Vũ,7,3,Tốt
+34,QTDL13A1,Quản trị du lịch và lữ hành 13A1,Khóa 13,4,Hồng Hoàng,8,3,Tốt
+35,QTDL14A1,Quản trị du lịch và lữ hành 14A1,Khóa 14,3,Bà Kim Bùi,8,3,Trung bình
+36,QTDL15A1,Quản trị du lịch và lữ hành 15A1,Khóa 15,2,Lâm Bảo Phạm,8,3,Yếu
+37,QTDL16A1,Quản trị du lịch và lữ hành 16A1,Khóa 16,1,Chị Phương Nguyễn,8,3,Trung bình
+38,QTDL16A2,Quản trị du lịch và lữ hành 16A2,Khóa 16,1,Hạnh Trí Phạm,8,3,Tốt
+39,LUAT13A1,Luật 13A1,Khóa 13,4,Ngọc Vũ,9,4,Tốt
+40,LUAT14A1,Luật 14A1,Khóa 14,3,Quý ông Anh Đặng,9,4,Trung bình
+41,LUAT15A1,Luật 15A1,Khóa 15,2,Cô Bảo Mai,9,4,Yếu
+42,LUAT16A1,Luật 16A1,Khóa 16,1,Dương Mai,9,4,Trung bình
+43,LUAT16A2,Luật 16A2,Khóa 16,1,Dũng Mai,9,4,Tốt
+44,DUOC13A1,Dược học 13A1,Khóa 13,4,Hưng Văn Phạm,10,5,Tốt
+45,DUOC14A1,Dược học 14A1,Khóa 14,3,Ông Quang Mai,10,5,Trung bình
+46,DUOC15A1,Dược học 15A1,Khóa 15,2,Quý cô Nhật Đặng,10,5,Yếu
+47,DUOC15A2,Dược học 15A2,Khóa 15,2,Bà Linh Phạm,10,5,Trung bình
+48,DUOC16A1,Dược học 16A1,Khóa 16,1,Quang Mai Dương,10,5,Tốt

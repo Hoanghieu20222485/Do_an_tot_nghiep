@@ -1,0 +1,239 @@
+﻿MonHocKey,MaMonHoc,TenMonHoc,SoTinChi,LoaiMonHoc,KhoiKienThuc,DoKho
+1,MH0001,Nhập môn Công nghệ thông tin,3,Cơ sở ngành,Cơ sở ngành,Dễ
+2,MH0002,Tin học cơ sở,3,Kiến thức chung,Kiến thức chung,Dễ
+3,MH0003,Toán rời rạc,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+4,MH0004,Kỹ năng học đại học,2,Kiến thức chung,Kiến thức chung,Dễ
+5,IT0005,Lập trình C,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+6,MH0006,Cấu trúc dữ liệu và giải thuật,3,Cơ sở ngành,Cơ sở ngành,Khó
+7,MH0007,Cơ sở dữ liệu,3,Cơ sở ngành,Cơ sở ngành,Khó
+8,MH0008,Mạng máy tính cơ bản,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+9,IT0009,Lập trình hướng đối tượng,3,Chuyên ngành,Chuyên ngành,Khó
+10,MH0010,Hệ điều hành,3,Chuyên ngành,Chuyên ngành,Trung bình
+11,MH0011,Phân tích thiết kế hệ thống,3,Chuyên ngành,Chuyên ngành,Trung bình
+12,IT0012,Thiết kế Web,3,Chuyên ngành,Chuyên ngành,Trung bình
+13,IT0013,SQL Server,3,Chuyên ngành,Chuyên ngành,Khó
+14,IT0014,Lập trình Web nâng cao,3,Chuyên ngành,Chuyên ngành,Trung bình
+15,MH0015,Java Programming,3,Chuyên ngành,Chuyên ngành,Trung bình
+16,MH0016,Quản trị mạng,3,Chuyên ngành,Chuyên ngành,Trung bình
+17,MH0017,Công nghệ phần mềm,3,Chuyên ngành,Chuyên ngành,Trung bình
+18,IT0018,Lập trình .NET,3,Chuyên ngành,Chuyên ngành,Trung bình
+19,MH0019,An toàn bảo mật thông tin,3,Chuyên ngành,Chuyên ngành,Trung bình
+20,MH0020,Điện toán đám mây,3,Chuyên ngành,Chuyên ngành,Trung bình
+21,MH0021,Phát triển ứng dụng di động,3,Chuyên ngành,Chuyên ngành,Trung bình
+22,MH0022,Kho dữ liệu và BI,3,Chuyên ngành,Chuyên ngành,Trung bình
+23,PHA0023,Power BI và trực quan hóa dữ liệu,3,Chuyên ngành,Chuyên ngành,Trung bình
+24,MH0024,Kiểm thử phần mềm,2,Chuyên ngành,Chuyên ngành,Trung bình
+25,MH0025,Machine Learning cơ bản,3,Chuyên ngành,Chuyên ngành,Khó
+26,MH0026,DevOps cơ bản,2,Chuyên ngành,Chuyên ngành,Trung bình
+27,MH0027,Thực tập doanh nghiệp,4,Thực tập,Thực tập,Dễ
+28,MH0028,Chuyên đề công nghệ mới,2,Chuyên ngành,Chuyên ngành,Dễ
+29,MH0029,Đồ án tốt nghiệp,6,Đồ án,Đồ án,Dễ
+30,MH0030,Khởi nghiệp,2,Chuyên ngành,Chuyên ngành,Dễ
+31,MH0031,Nhập môn Thiết kế đồ họa,3,Cơ sở ngành,Cơ sở ngành,Dễ
+32,MH0032,Mỹ thuật cơ bản,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+33,MH0033,Nguyên lý thị giác,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+34,MH0034,Tin học ứng dụng,2,Kiến thức chung,Kiến thức chung,Dễ
+35,MH0035,Adobe Photoshop,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+36,MH0036,Adobe Illustrator,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+37,MH0037,Typography,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+38,MH0038,Thiết kế bố cục,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+39,MH0039,Thiết kế nhận diện thương hiệu,3,Chuyên ngành,Chuyên ngành,Trung bình
+40,MH0040,Adobe InDesign,3,Chuyên ngành,Chuyên ngành,Trung bình
+41,MH0041,Thiết kế UI/UX,3,Chuyên ngành,Chuyên ngành,Trung bình
+42,MH0042,Thiết kế Banner và Poster,2,Chuyên ngành,Chuyên ngành,Trung bình
+43,IT0043,Thiết kế Website,3,Chuyên ngành,Chuyên ngành,Trung bình
+44,MH0044,Dựng video cơ bản,3,Chuyên ngành,Chuyên ngành,Trung bình
+45,MH0045,Motion Graphics,3,Chuyên ngành,Chuyên ngành,Trung bình
+46,MH0046,Nhiếp ảnh kỹ thuật số,2,Chuyên ngành,Chuyên ngành,Trung bình
+47,MH0047,Thiết kế 3D cơ bản,3,Chuyên ngành,Chuyên ngành,Trung bình
+48,MH0048,Dựng phim và hậu kỳ,3,Chuyên ngành,Chuyên ngành,Trung bình
+49,MH0049,Thiết kế quảng cáo số,3,Chuyên ngành,Chuyên ngành,Trung bình
+50,MH0050,Thiết kế bao bì sản phẩm,2,Chuyên ngành,Chuyên ngành,Trung bình
+51,MH0051,Thiết kế App Mobile,3,Chuyên ngành,Chuyên ngành,Trung bình
+52,MH0052,UX Research,2,Chuyên ngành,Chuyên ngành,Trung bình
+53,MH0053,Thiết kế truyền thông đa phương tiện,3,Chuyên ngành,Chuyên ngành,Trung bình
+54,MH0054,Digital Marketing cơ bản,2,Chuyên ngành,Chuyên ngành,Trung bình
+55,MH0055,Portfolio cá nhân,3,Đồ án,Đồ án,Dễ
+56,MH0056,Chuyên đề thiết kế sáng tạo,2,Chuyên ngành,Chuyên ngành,Dễ
+57,MH0057,Thiết kế dự án thực tế,3,Đồ án,Đồ án,Dễ
+58,MH0058,Nhập môn Trí tuệ nhân tạo,3,Cơ sở ngành,Cơ sở ngành,Dễ
+59,IT0059,Python cơ bản,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+60,IT0060,Toán cho AI,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+61,IT0061,Python nâng cao,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+62,MH0062,Xác suất thống kê,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+63,MH0063,Machine Learning,3,Chuyên ngành,Chuyên ngành,Khó
+64,MH0064,Deep Learning cơ bản,3,Chuyên ngành,Chuyên ngành,Khó
+65,MH0065,Xử lý dữ liệu,3,Chuyên ngành,Chuyên ngành,Trung bình
+66,PHA0066,Trực quan hóa dữ liệu,2,Chuyên ngành,Chuyên ngành,Trung bình
+67,MH0067,Computer Vision,3,Chuyên ngành,Chuyên ngành,Khó
+68,MH0068,Xử lý ngôn ngữ tự nhiên,3,Chuyên ngành,Chuyên ngành,Khó
+69,IT0069,Khai phá dữ liệu,3,Chuyên ngành,Chuyên ngành,Trung bình
+70,MH0070,Mạng nơ-ron nhân tạo,3,Chuyên ngành,Chuyên ngành,Khó
+71,IT0071,Big Data cơ bản,3,Chuyên ngành,Chuyên ngành,Trung bình
+72,IT0072,AI trong doanh nghiệp,3,Chuyên ngành,Chuyên ngành,Trung bình
+73,MH0073,Hệ chuyên gia,2,Chuyên ngành,Chuyên ngành,Trung bình
+74,IT0074,Điện toán đám mây cho AI,3,Chuyên ngành,Chuyên ngành,Trung bình
+75,MH0075,MLOps cơ bản,3,Chuyên ngành,Chuyên ngành,Trung bình
+76,IT0076,Phân tích dữ liệu với Power BI,3,Chuyên ngành,Chuyên ngành,Trung bình
+77,IT0077,AIoT cơ bản,2,Chuyên ngành,Chuyên ngành,Trung bình
+78,IT0078,An toàn dữ liệu AI,2,Chuyên ngành,Chuyên ngành,Trung bình
+79,IT0079,Generative AI,3,Chuyên ngành,Chuyên ngành,Trung bình
+80,IT0080,Chuyên đề AI hiện đại,2,Chuyên ngành,Chuyên ngành,Dễ
+81,IT0081,Dự án AI thực tế,3,Đồ án,Đồ án,Dễ
+82,CON0082,Nhập môn Kiến trúc,3,Cơ sở ngành,Cơ sở ngành,Dễ
+83,CON0083,Hình họa kiến trúc,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+84,MH0084,Vẽ kỹ thuật,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+85,CON0085,AutoCAD,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+86,CON0086,Cơ sở tạo hình kiến trúc,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+87,CON0087,Lịch sử kiến trúc,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+88,CON0088,Thiết kế kiến trúc nhà ở,3,Chuyên ngành,Chuyên ngành,Trung bình
+89,MH0089,Vật liệu chuyên ngành,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+90,MH0090,Kết cấu công trình cơ bản,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+91,MH0091,SketchUp và 3D Modeling,2,Chuyên ngành,Chuyên ngành,Trung bình
+92,MH0092,Thiết kế công trình công cộng,3,Chuyên ngành,Chuyên ngành,Trung bình
+93,MH0093,Quy hoạch đô thị,3,Chuyên ngành,Chuyên ngành,Trung bình
+94,CON0094,Kiến trúc cảnh quan,3,Chuyên ngành,Chuyên ngành,Trung bình
+95,CON0095,Revit Architecture,3,Chuyên ngành,Chuyên ngành,Trung bình
+96,CON0096,Thiết kế kiến trúc nâng cao,3,Chuyên ngành,Chuyên ngành,Trung bình
+97,CON0097,BIM,3,Chuyên ngành,Chuyên ngành,Trung bình
+98,MH0098,Kỹ thuật thi công công trình,3,Chuyên ngành,Chuyên ngành,Trung bình
+99,CON0099,Thiết kế chiếu sáng kiến trúc,2,Chuyên ngành,Chuyên ngành,Trung bình
+100,CON0100,Hồ sơ kỹ thuật kiến trúc,3,Chuyên ngành,Chuyên ngành,Trung bình
+101,MH0101,Quản lý dự án,3,Chuyên ngành,Chuyên ngành,Trung bình
+102,MH0102,Thiết kế xanh và bền vững,2,Chuyên ngành,Chuyên ngành,Trung bình
+103,LAW0103,Pháp luật chuyên ngành,2,Chuyên ngành,Chuyên ngành,Trung bình
+104,CON0104,Chuyên đề kiến trúc hiện đại,3,Chuyên ngành,Chuyên ngành,Dễ
+105,CON0105,Thiết kế đồ án kiến trúc tổng hợp,3,Đồ án,Đồ án,Dễ
+106,MH0106,Chuyên đề công trình thực tế,2,Chuyên ngành,Chuyên ngành,Dễ
+107,CON0107,Nhập môn Kiến trúc nội thất,3,Cơ sở ngành,Cơ sở ngành,Dễ
+108,MH0108,Nguyên lý thiết kế nội thất,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+109,MH0109,Màu sắc và ánh sáng,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+110,MH0110,Lịch sử nội thất,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+111,MH0111,Thiết kế nội thất nhà ở,3,Chuyên ngành,Chuyên ngành,Trung bình
+112,MH0112,SketchUp nội thất,3,Chuyên ngành,Chuyên ngành,Trung bình
+113,MH0113,Trang trí không gian,2,Chuyên ngành,Chuyên ngành,Trung bình
+114,MH0114,Thiết kế nội thất văn phòng,3,Chuyên ngành,Chuyên ngành,Trung bình
+115,MH0115,Thiết kế nội thất thương mại,3,Chuyên ngành,Chuyên ngành,Trung bình
+116,MH0116,3Ds Max cơ bản,3,Chuyên ngành,Chuyên ngành,Trung bình
+117,CON0117,Revit Interior,2,Chuyên ngành,Chuyên ngành,Trung bình
+118,MH0118,Thiết kế ánh sáng nội thất,3,Chuyên ngành,Chuyên ngành,Trung bình
+119,MH0119,Thiết kế đồ nội thất,3,Chuyên ngành,Chuyên ngành,Trung bình
+120,MH0120,Dựng phối cảnh 3D,3,Chuyên ngành,Chuyên ngành,Trung bình
+121,MH0121,Thiết kế không gian xanh,2,Chuyên ngành,Chuyên ngành,Trung bình
+122,MH0122,Thiết kế showroom,2,Chuyên ngành,Chuyên ngành,Trung bình
+123,MH0123,Chuyên đề thiết kế nội thất hiện đại,3,Chuyên ngành,Chuyên ngành,Dễ
+124,MH0124,Dự án nội thất thực tế,3,Đồ án,Đồ án,Dễ
+125,MH0125,Portfolio thiết kế nội thất,2,Đồ án,Đồ án,Dễ
+126,CON0126,Nhập môn Kỹ thuật xây dựng,3,Cơ sở ngành,Cơ sở ngành,Dễ
+127,MH0127,Toán kỹ thuật,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+128,CON0128,Vật lý xây dựng,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+129,MH0129,Cơ học kỹ thuật,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+130,MH0130,Sức bền vật liệu,3,Chuyên ngành,Chuyên ngành,Khó
+131,MH0131,Kết cấu bê tông cốt thép,3,Chuyên ngành,Chuyên ngành,Khó
+132,MH0132,Trắc địa công trình,3,Chuyên ngành,Chuyên ngành,Trung bình
+133,MH0133,Địa chất công trình,2,Chuyên ngành,Chuyên ngành,Trung bình
+134,MH0134,Kỹ thuật thi công,3,Chuyên ngành,Chuyên ngành,Trung bình
+135,MH0135,Kết cấu thép,3,Chuyên ngành,Chuyên ngành,Khó
+136,MH0136,Nền móng công trình,3,Chuyên ngành,Chuyên ngành,Khó
+137,CON0137,Revit Structure,2,Chuyên ngành,Chuyên ngành,Trung bình
+138,CON0138,Dự toán xây dựng,3,Chuyên ngành,Chuyên ngành,Trung bình
+139,MH0139,Quản lý chất lượng công trình,3,Chuyên ngành,Chuyên ngành,Trung bình
+140,CON0140,An toàn lao động xây dựng,2,Chuyên ngành,Chuyên ngành,Trung bình
+141,MH0141,Kỹ thuật cầu đường cơ bản,3,Chuyên ngành,Chuyên ngành,Trung bình
+142,MH0142,Giám sát thi công,3,Chuyên ngành,Chuyên ngành,Trung bình
+143,CON0143,Chuyên đề công nghệ xây dựng mới,3,Chuyên ngành,Chuyên ngành,Dễ
+144,MH0144,Thiết kế công trình thực tế,3,Đồ án,Đồ án,Dễ
+145,MH0145,Chuyên đề công trình xanh,2,Chuyên ngành,Chuyên ngành,Dễ
+146,TOU0146,Nhập môn Quản trị khách sạn,3,Cơ sở ngành,Cơ sở ngành,Dễ
+147,TOU0147,Tổng quan du lịch và dịch vụ,3,Cơ sở ngành,Cơ sở ngành,Dễ
+148,MH0148,Kỹ năng giao tiếp,2,Kiến thức chung,Kiến thức chung,Dễ
+149,MH0149,Nghiệp vụ lễ tân,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+150,MH0150,Nghiệp vụ buồng phòng,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+151,MH0151,Tâm lý khách hàng,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+152,MH0152,Tiếng Anh chuyên ngành,3,Cơ sở ngành,Cơ sở ngành,Dễ
+153,MH0153,Quản trị nhà hàng,3,Chuyên ngành,Chuyên ngành,Trung bình
+154,MH0154,Nghiệp vụ phục vụ bàn,3,Chuyên ngành,Chuyên ngành,Trung bình
+155,TOU0155,Quản trị nhân sự khách sạn,3,Chuyên ngành,Chuyên ngành,Trung bình
+156,TOU0156,Marketing du lịch,2,Chuyên ngành,Chuyên ngành,Trung bình
+157,MH0157,Quản trị chất lượng dịch vụ,3,Chuyên ngành,Chuyên ngành,Trung bình
+158,MH0158,Quản trị sự kiện,3,Chuyên ngành,Chuyên ngành,Trung bình
+159,TOU0159,Kế toán khách sạn,3,Chuyên ngành,Chuyên ngành,Trung bình
+160,MH0160,Quản trị resort và spa,3,Chuyên ngành,Chuyên ngành,Trung bình
+161,TOU0161,Quản trị doanh thu khách sạn,3,Chuyên ngành,Chuyên ngành,Trung bình
+162,PHA0162,Văn hóa ẩm thực,2,Chuyên ngành,Chuyên ngành,Trung bình
+163,MH0163,Phần mềm quản lý dịch vụ,2,Chuyên ngành,Chuyên ngành,Trung bình
+164,TOU0164,Quản trị chiến lược khách sạn,3,Chuyên ngành,Chuyên ngành,Trung bình
+165,MH0165,Chăm sóc khách hàng,2,Chuyên ngành,Chuyên ngành,Trung bình
+166,TOU0166,Quản trị tài chính khách sạn,3,Chuyên ngành,Chuyên ngành,Trung bình
+167,TOU0167,Chuyên đề quản trị khách sạn hiện đại,3,Chuyên ngành,Chuyên ngành,Dễ
+168,TOU0168,Quản lý vận hành khách sạn thực tế,3,Đồ án,Đồ án,Dễ
+169,MH0169,Kỹ năng quản lý và lãnh đạo,2,Chuyên ngành,Chuyên ngành,Dễ
+170,TOU0170,Nhập môn Quản trị du lịch và lữ hành,3,Cơ sở ngành,Cơ sở ngành,Dễ
+171,TOU0171,Tổng quan du lịch Việt Nam,3,Cơ sở ngành,Cơ sở ngành,Dễ
+172,TOU0172,Địa lý du lịch,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+173,PHA0173,Văn hóa du lịch,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+174,TOU0174,Tâm lý khách du lịch,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+175,TOU0175,Nghiệp vụ hướng dẫn du lịch,3,Chuyên ngành,Chuyên ngành,Trung bình
+176,TOU0176,Thiết kế và điều hành tour,3,Chuyên ngành,Chuyên ngành,Trung bình
+177,MH0177,Kỹ năng tổ chức sự kiện,2,Chuyên ngành,Chuyên ngành,Dễ
+178,TOU0178,Quản trị doanh nghiệp lữ hành,3,Chuyên ngành,Chuyên ngành,Trung bình
+179,TOU0179,Quản trị nhân sự du lịch,3,Chuyên ngành,Chuyên ngành,Trung bình
+180,TOU0180,Du lịch bền vững,2,Chuyên ngành,Chuyên ngành,Trung bình
+181,TOU0181,Du lịch quốc tế,3,Chuyên ngành,Chuyên ngành,Trung bình
+182,TOU0182,Quản trị điểm đến du lịch,3,Chuyên ngành,Chuyên ngành,Trung bình
+183,MH0183,Nghiệp vụ thanh toán và vé máy bay,2,Chuyên ngành,Chuyên ngành,Trung bình
+184,TOU0184,Quản trị chất lượng dịch vụ du lịch,3,Chuyên ngành,Chuyên ngành,Trung bình
+185,TOU0185,Tổ chức sự kiện du lịch,3,Chuyên ngành,Chuyên ngành,Trung bình
+186,TOU0186,Chuyên đề du lịch hiện đại,3,Chuyên ngành,Chuyên ngành,Dễ
+187,TOU0187,Điều hành tour thực tế,3,Đồ án,Đồ án,Dễ
+188,LAW0188,Nhập môn ngành Luật,3,Cơ sở ngành,Cơ sở ngành,Dễ
+189,LAW0189,Lý luận Nhà nước và Pháp luật,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+190,MH0190,Hiến pháp Việt Nam,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+191,LAW0191,Luật Dân sự 1,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+192,LAW0192,Luật Hành chính,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+193,LAW0193,Luật Hình sự 1,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+194,MH0194,Logic học pháp lý,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+195,LAW0195,Luật Dân sự 2,3,Chuyên ngành,Chuyên ngành,Trung bình
+196,LAW0196,Luật Hình sự 2,3,Chuyên ngành,Chuyên ngành,Trung bình
+197,LAW0197,Luật Lao động,3,Chuyên ngành,Chuyên ngành,Trung bình
+198,MH0198,Kỹ năng tranh tụng cơ bản,2,Chuyên ngành,Chuyên ngành,Khó
+199,LAW0199,Luật Thương mại,3,Chuyên ngành,Chuyên ngành,Trung bình
+200,LAW0200,Luật Tố tụng dân sự,3,Chuyên ngành,Chuyên ngành,Khó
+201,LAW0201,Luật Đất đai,3,Chuyên ngành,Chuyên ngành,Trung bình
+202,MH0202,Tiếng Anh pháp lý,2,Chuyên ngành,Chuyên ngành,Dễ
+203,LAW0203,Luật Doanh nghiệp,3,Chuyên ngành,Chuyên ngành,Trung bình
+204,LAW0204,Luật Quốc tế,3,Chuyên ngành,Chuyên ngành,Trung bình
+205,LAW0205,Luật Sở hữu trí tuệ,2,Chuyên ngành,Chuyên ngành,Trung bình
+206,LAW0206,Pháp luật hợp đồng,2,Chuyên ngành,Chuyên ngành,Trung bình
+207,LAW0207,Luật Tố tụng hình sự,3,Chuyên ngành,Chuyên ngành,Khó
+208,LAW0208,Luật Hôn nhân và gia đình,3,Chuyên ngành,Chuyên ngành,Trung bình
+209,LAW0209,Pháp luật tài chính ngân hàng,2,Chuyên ngành,Chuyên ngành,Trung bình
+210,LAW0210,Kỹ năng tư vấn pháp luật,2,Chuyên ngành,Chuyên ngành,Dễ
+211,LAW0211,Chuyên đề pháp luật hiện đại,3,Chuyên ngành,Chuyên ngành,Dễ
+212,MH0212,Giải quyết tranh chấp thương mại,3,Chuyên ngành,Chuyên ngành,Trung bình
+213,LAW0213,Đạo đức nghề nghiệp luật,2,Chuyên ngành,Chuyên ngành,Trung bình
+214,LAW0214,Kỹ năng hành nghề luật sư,2,Chuyên ngành,Chuyên ngành,Dễ
+215,PHA0215,Nhập môn Dược học,3,Cơ sở ngành,Cơ sở ngành,Dễ
+216,PHA0216,Hóa đại cương,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+217,PHA0217,Sinh học đại cương,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+218,PHA0218,Hóa hữu cơ,3,Cơ sở ngành,Cơ sở ngành,Khó
+219,PHA0219,Giải phẫu sinh lý,3,Cơ sở ngành,Cơ sở ngành,Trung bình
+220,PHA0220,Thực vật dược,2,Cơ sở ngành,Cơ sở ngành,Trung bình
+221,PHA0221,Hóa phân tích,3,Chuyên ngành,Chuyên ngành,Khó
+222,PHA0222,Vi sinh ký sinh trùng,3,Chuyên ngành,Chuyên ngành,Trung bình
+223,PHA0223,Dược liệu học,3,Chuyên ngành,Chuyên ngành,Trung bình
+224,PHA0224,Sinh hóa,2,Chuyên ngành,Chuyên ngành,Trung bình
+225,PHA0225,Dược lý học 1,3,Chuyên ngành,Chuyên ngành,Khó
+226,MH0226,Bào chế học,3,Chuyên ngành,Chuyên ngành,Trung bình
+227,PHA0227,Kiểm nghiệm thuốc,3,Chuyên ngành,Chuyên ngành,Khó
+228,PHA0228,Dược lý học 2,3,Chuyên ngành,Chuyên ngành,Khó
+229,PHA0229,Quản lý tồn trữ thuốc,2,Chuyên ngành,Chuyên ngành,Trung bình
+230,PHA0230,Pháp chế dược,2,Chuyên ngành,Chuyên ngành,Trung bình
+231,PHA0231,Dược lâm sàng cơ bản,3,Chuyên ngành,Chuyên ngành,Trung bình
+232,PHA0232,Công nghệ sản xuất thuốc,3,Chuyên ngành,Chuyên ngành,Trung bình
+233,PHA0233,Kiểm soát chất lượng thuốc,3,Chuyên ngành,Chuyên ngành,Khó
+234,PHA0234,Marketing dược phẩm,2,Chuyên ngành,Chuyên ngành,Trung bình
+235,PHA0235,Quản trị nhà thuốc,2,Chuyên ngành,Chuyên ngành,Trung bình
+236,PHA0236,Chuyên đề dược hiện đại,3,Chuyên ngành,Chuyên ngành,Dễ
+237,PHA0237,Tư vấn sử dụng thuốc an toàn,2,Chuyên ngành,Chuyên ngành,Trung bình
+238,PHA0238,Đạo đức nghề nghiệp dược,2,Chuyên ngành,Chuyên ngành,Trung bình

@@ -1,0 +1,5 @@
+﻿CanhBaoKey,TenCanhBao,MucDo,MoTa
+1,Không cảnh báo,0,Sinh viên không có dấu hiệu rủi ro học vụ
+2,Cảnh báo nhẹ,1,GPA hoặc tín chỉ nợ bắt đầu dưới ngưỡng an toàn
+3,Cảnh báo trung bình,2,GPA thấp hoặc nợ tín chỉ ở mức cần can thiệp
+4,Cảnh báo nghiêm trọng,3,"Nguy cơ cao do GPA rất thấp, nợ tín chỉ nhiều hoặc rèn luyện yếu"
