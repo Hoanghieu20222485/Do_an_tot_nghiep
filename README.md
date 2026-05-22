@@ -107,28 +107,6 @@ Pie Chart
 Matrix
 Slicer Filter
 
-🚀 Cách chạy project
-1. Clone project
-git clone https://github.com/yourusername/student-analytics-powerbi.git
-
-3. Cài thư viện Python
-pip install -r requirements.txt
-
-5. Generate dataset bằng Faker
-python generate_students.py
-
-7. Import dữ liệu vào SQL Server
-Run các file:
-create_tables.sql
-views.sql
-
-5. Mở Power BI
-Open file:
-StudentDashboard.pbix
-
-Sau đó:
-Refresh data
-
 🧠 Các chức năng phân tích
 Hệ thống hỗ trợ:
 Phân tích xu hướng học tập
